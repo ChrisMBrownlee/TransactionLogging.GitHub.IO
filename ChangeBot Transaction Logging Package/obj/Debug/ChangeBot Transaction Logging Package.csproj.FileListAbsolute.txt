@@ -1,0 +1,7 @@
+C:\Users\MCA\source\repos\ChangeBot Transaction Logging Package\ChangeBot Transaction Logging Package\bin\Debug\ChangeBot Transaction Logging Package.exe.config
+C:\Users\MCA\source\repos\ChangeBot Transaction Logging Package\ChangeBot Transaction Logging Package\bin\Debug\ChangeBot Transaction Logging Package.exe
+C:\Users\MCA\source\repos\ChangeBot Transaction Logging Package\ChangeBot Transaction Logging Package\bin\Debug\ChangeBot Transaction Logging Package.pdb
+C:\Users\MCA\source\repos\ChangeBot Transaction Logging Package\ChangeBot Transaction Logging Package\obj\Debug\ChangeBot Transaction Logging Package.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\ChangeBot Transaction Logging Package\ChangeBot Transaction Logging Package\obj\Debug\ChangeBot Transaction Logging Package.exe
+C:\Users\MCA\source\repos\ChangeBot Transaction Logging Package\ChangeBot Transaction Logging Package\obj\Debug\ChangeBot Transaction Logging Package.pdb
+C:\Users\MCA\source\repos\ChangeBot Transaction Logging Package\ChangeBot Transaction Logging Package\obj\Debug\ChangeBot Transaction Logging Package.csprojAssemblyReference.cache
